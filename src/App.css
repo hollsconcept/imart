@@ -3,9 +3,27 @@
     font-size: 18px;
 
 }
-.title-image{
-	width: 20%;
-	transform: rotateZ(25deg);
+
+.container-fluid{
+       
+	padding-left: 20px;
+	margin-left: 30px;
 	position: absolute;
-	right: 130px;
+}
+.card-img{
+	width:100px;
+	transform: rotate(-15deg);
+	position: relative;
+	right: 8.125rem;
+	padding-top: 1.25rem;
+	margin-top: 5.75rem;
+	margin: right 2.5em;;
+	justify-content: center;
+}
+.card-text{
+	font-family: Montserrat-Bold;
+	font-weight: 600;
+	margin-top: 4rem;
+	font-size: 2.5rem;
+	margin-left: 4rem;
 }
